@@ -1,0 +1,272 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c8956973-479e-4af8-b4b2-e3141670ed9c")
+	(paper "A4")
+	(title_block
+		(title "C10-040-0115")
+		(date "10/12/1982")
+		(rev "5")
+		(company "Cromemco")
+	)
+	(lib_symbols)
+	(sheet
+		(at 62.23 25.4)
+		(size 22.86 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dfdb0b6-1a3e-48dd-9d3f-f7aa40dad9ae")
+		(property "Sheetname" "Sheet_2"
+			(at 62.23 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_2.kicad_sch"
+			(at 62.23 51.1306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 25.4)
+		(size 25.4 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6421bfc9-74f5-46a4-b370-ed543c37f2dd")
+		(property "Sheetname" "Sheet_3"
+			(at 95.25 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_3.kicad_sch"
+			(at 95.25 49.3526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 24.13)
+		(size 24.13 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8a108206-5ba2-4002-b1a5-cd042b5269dc")
+		(property "Sheetname" "Sheet_1"
+			(at 25.4 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_1.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 58.42)
+		(size 22.86 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b29b4e72-c589-477a-908c-029f1e1cd2b7")
+		(property "Sheetname" "UPower"
+			(at 25.4 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UPower.kicad_sch"
+			(at 25.4 82.3726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 25.4)
+		(size 22.86 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd274efe-75f9-4764-b7ae-041bf0f012b4")
+		(property "Sheetname" "Sheet_5"
+			(at 165.1 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_5.kicad_sch"
+			(at 165.1 48.0826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 25.4)
+		(size 27.94 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe2d9dd5-d8d7-4ee7-867a-8a8b1ad662cd")
+		(property "Sheetname" "Sheet_4"
+			(at 128.27 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet_4.kicad_sch"
+			(at 128.27 47.3206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "C10"
+				(path "/c8956973-479e-4af8-b4b2-e3141670ed9c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "0")
+		)
+	)
+	(embedded_fonts no)
+)

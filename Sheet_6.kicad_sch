@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "839d9326-555a-48cf-a149-13b1c6fd50b6")
+	(paper "A3")
+	(title_block
+		(title "C10-040-0115")
+		(rev "5")
+		(company "Cromemco")
+	)
+	(lib_symbols)
+)
